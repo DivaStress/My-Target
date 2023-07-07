@@ -1,3 +1,5 @@
 My Target
 - Learn Git/Github
 - learn Web programing
+- learn c# language
+- learn how to create games
