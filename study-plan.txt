@@ -5,8 +5,6 @@ My Study Plan
  *web thing
 -C# language
  *unity thing
--C++ language
- *ue4/5
 -Learning Japanese
  *N5
  *N4
