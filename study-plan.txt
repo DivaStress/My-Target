@@ -10,3 +10,4 @@ My Study Plan
 -Learning Japanese
  *N5
  *N4
+-Learning English
