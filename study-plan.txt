@@ -1,0 +1,6 @@
+My Study Plan
+
+-Git/Github
+-C# language
+-C++ language
+-Learning Japanese
