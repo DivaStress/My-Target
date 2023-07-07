@@ -2,5 +2,8 @@ My Study Plan
 
 -Git/Github
 -C# language
+ *unity thing
 -C++ language
 -Learning Japanese
+ *N5
+ *N4
