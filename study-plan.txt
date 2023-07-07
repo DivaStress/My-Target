@@ -1,6 +1,8 @@
 My Study Plan
 
 -Git/Github
+-Javascript
+ *web thing
 -C# language
  *unity thing
 -C++ language
@@ -8,3 +10,4 @@ My Study Plan
 -Learning Japanese
  *N5
  *N4
+-Learning English
